@@ -1,3 +1,12 @@
+body {
+  text-align: center;
+  color: pink;
+}
+
 h1 {
   color: red;
+}
+span {
+  font-size: large;
+  color: aqua;
 }
